@@ -7,17 +7,19 @@ I am a passionate beginner developer currently focusing on building robust backe
 
 ### 🧰 Tech Stack & Tools
 
-![🐍 Python]
-![☕ Django]
-![⚛️ React]
-![📜 JavaScript]
-![🔀 Git]
-![🗄️ SQL](https://shields.io)
+!🐍 Python
+!☕ Django
+!⚛️ React
+!📜 JavaScript
+!🔀 Git
+!🗄️ SQL
 
 - **Backend:** Python, Django
 - **Frontend:** React, HTML5, CSS3, JavaScript
 - **Core Concepts:** Object-Oriented Programming (OOP), RESTful APIs, MVC Architecture
 - **Version Control:** Git & GitHub
+- **Database:** PostGre, MySQL, SQL
+- **Networking:** CCNA
 
 ---
 
@@ -39,12 +41,12 @@ I am a passionate beginner developer currently focusing on building robust backe
 ### 📂 Featured Projects
 - **[Student Result Management System](https://github.com/kawsar117/Ostad-Batch12-Assignment/blob/main/Assignment_Module_01.py)** - Building a simple Python console application for Student Result Management
 - **[Expense Trackder](https://github.com/kawsar117/Ostad-Batch12-Assignment/commit/85825c6fb5a932287ad4fb6e25cc0a9a6d313853)** - Building a command-line Expense Tracker application using Python.
-- **[Library Management System](https://github.com/kawsar117/Ostad-Batch12-Assignment/commit/85825c6fb5a932287ad4fb6e25cc0a9a6d313853)** - A Python application demonstrating core OOP concepts.
+- **[Library Management System](https://github.com/)** - A Python application demonstrating core OOP concepts.
 
 ---
 
 ### 🤝 Connect with Me
-- **LinkedIn:** [kawsar117](https://www.linkedin.com/in/kawsar-ahmed-shajib-b451b6212/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtMftGjzuQISw2wD%2Fkbb%2FgA%3D%3D)
+- **LinkedIn:** kawsar117(https://www.linkedin.com/in/kawsar-ahmed-shajib-b451b6212/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtMftGjzuQISw2wD%2Fkbb%2FgA%3D%3D)
 - **Email:** kawsar117@gmail.com
 - **Contact:** 01716-192030
 
