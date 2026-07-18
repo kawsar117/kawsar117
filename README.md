@@ -1,4 +1,4 @@
-# Hi there, I'm kawsar117! 👋
+# Hi, I'm Kawsar Ahmed Shajib ! 👋
 
 ### 🚀 Aspiring Full-Stack Web Developer 
 I am a passionate beginner developer currently focusing on building robust backend systems and dynamic frontend user interfaces. I love learning new technologies, applying Object-Oriented Programming (OOP) concepts, and turning ideas into clean, functional code.
@@ -7,11 +7,12 @@ I am a passionate beginner developer currently focusing on building robust backe
 
 ### 🧰 Tech Stack & Tools
 
-![Python](https://shields.io)
-![Django](https://shields.io)
-![React](https://shields.io)
-![JavaScript](https://shields.io)
-![Git](https://shields.io)
+![🐍 Python](https://shields.io)
+![☕ Django](https://shields.io)
+![⚛️ React](https://shields.io)
+![📜 JavaScript](https://shields.io)
+![🔀 Git](https://shields.io)
+![🗄️ SQL](https://shields.io)
 
 - **Backend:** Python, Django
 - **Frontend:** React, HTML5, CSS3, JavaScript
