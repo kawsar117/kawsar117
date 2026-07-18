@@ -45,7 +45,7 @@ I am a passionate beginner developer currently focusing on building robust backe
 
 ### 🤝 Connect with Me
 - **LinkedIn:** [kawsar117](https://linkedin.com)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [kawsar117@gmail.com](mailto:your.email@example.com)
 
 Tailored with ❤️ for my coding journey.
 
