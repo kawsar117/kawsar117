@@ -37,7 +37,7 @@ I am a passionate beginner developer currently focusing on building robust backe
 ---
 
 ### 📂 Featured Projects
-- **[Student Result Management System](https://github.com)** - A Full-Stack web application built using Django and React.
+- **[Student Result Management System](https://github.com/kawsar117/Ostad-Batch12-Assignment/blob/main/Assignment_Module_01.py)**
 - **[Expense Trackder](https://github.com)** - A Python application demonstrating core OOP concepts like inheritance and polymorphism.
 
 ---
