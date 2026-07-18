@@ -47,7 +47,7 @@ I am a passionate beginner developer currently focusing on building robust backe
 
 ### 🤝 Connect with Me
 - **LinkedIn  :** [kawsar117](https://www.linkedin.com/in/kawsar-ahmed-shajib-b451b6212/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtMftGjzuQISw2wD%2Fkbb%2FgA%3D%3D)
-- **Email    :** kawsar117@gmail.com
+- **Email  :** kawsar117@gmail.com
 - **Contact  :** 01716-192030
 
 Tailored with ❤️ for my coding journey.
