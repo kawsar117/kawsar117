@@ -37,10 +37,8 @@ I am a passionate beginner developer currently focusing on building robust backe
 ---
 
 ### 📂 Featured Projects
-*Replace these placeholders with your repository links as you create them!*
-
-- **[Project Name 1](https://github.com)** - A Full-Stack web application built using Django and React.
-- **[Project Name 2](https://github.com)** - A Python application demonstrating core OOP concepts like inheritance and polymorphism.
+- **[Student Result Management System](https://github.com)** - A Full-Stack web application built using Django and React.
+- **[Expense Trackder](https://github.com)** - A Python application demonstrating core OOP concepts like inheritance and polymorphism.
 
 ---
 
